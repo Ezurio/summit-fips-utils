@@ -1,5 +1,5 @@
 /*
-* Copyright 2023 Laird Connectivity
+* Copyright 2023 Ezurio
 *
 * Redistribution and use in source and binary forms, with or without
 * modification, are permitted provided  that the following conditions are met:
